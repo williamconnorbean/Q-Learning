@@ -16,10 +16,10 @@ import random
 epsilon = 1
 maxEpsilon = 1
 minEpsilon = 0.01
-learningRate = 0.1 # was 0.7
+learningRate = 0.1
 gamma = 0.99
 decayRate = 0.001
-MAX_EPISODES = 10000 # TODO: change later for more learning
+MAX_EPISODES = 10000
 MAX_STEPS_PER_EPISODE = 100
 
 # initialize frozen lake environment
