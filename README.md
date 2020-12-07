@@ -15,7 +15,7 @@ HFFG       (G: goal, where the frisbee is located)
 $ python qLearning.py
 ```
 
-## Output
+## Example Output
 ```
 Average reward per 1000 episodes
 ===============================
