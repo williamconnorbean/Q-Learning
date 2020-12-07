@@ -1,5 +1,9 @@
 # Q-Learning Implementation
 
+# Sources:
+# https://gym.openai.com/
+# https://gym.openai.com/envs/FrozenLake-v0/
+
 # SFFF       (S: starting point, safe)
 # FHFH       (F: frozen surface, safe)
 # FFFH       (H: hole, fall to your doom)
